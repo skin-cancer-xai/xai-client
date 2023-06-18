@@ -1,12 +1,17 @@
+import React from "react";
+import Link from "next/link";
+
+import Button from "../components/Button";
+
 const Main = () => {
   return (
-    <div>
-      <p>
-        <a href="/doctor/model">Doctor</a>
-      </p>
-      <p>
-        <a href="/developer/resultList">Developer</a>
-      </p>
+    <div className="main">
+      <Link href={{ pathname: "/doctor/model" }}>
+        <Button primary="primary" size="large" label="Doctor" />
+      </Link>
+      <Link href={{ pathname: "/developer/result_list" }}>
+        <Button primary="secondary" size="large" label="Developer" />
+      </Link>
     </div>
   );
 };

@@ -1,0 +1,28 @@
+.resultList {
+  padding: 3em 5em;
+}
+
+.resultList-container {
+  display: flex;
+  margin-top: 2em;
+}
+
+.resultList-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  row-gap: 6em;
+  column-gap: 1em;
+}
+
+@media only screen and (max-width: 767.98px) {
+  .resultList {
+    padding: 3em 1em;
+  }
+}
+
+@media only screen and (max-width: 575.98px) {
+  .resultList {
+    padding: 3em 3em;
+  }
+}

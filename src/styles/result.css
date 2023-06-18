@@ -1,0 +1,26 @@
+.result-feedback {
+  display: flex;
+  padding: 3em 5em;
+  gap: 10em;
+}
+
+.result-feedback p {
+  font-size: 14px;
+}
+
+.result-feedback .right {
+  padding-top: 25px;
+}
+
+.result-feedback .right div {
+  margin-top: 3em;
+}
+
+.result-feedback .right .question {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.result-feedback .right .answer {
+  margin-left: 1em;
+}

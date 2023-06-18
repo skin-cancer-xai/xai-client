@@ -1,0 +1,50 @@
+.button {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  border: 0;
+  border-radius: 5em;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.button--primary {
+  color: var(--element-color1);
+  background-color: var(--main-color);
+}
+
+.button--secondary {
+  color: var(--element-color2);
+  background-color: var(--sub-color);
+}
+
+.button--sub {
+  color: var(--element-color3);
+  background-color: transparent;
+  border: 2px solid var(--element-color3);
+}
+
+.button--large {
+  font-size: 20px;
+  padding: 16px 28px;
+}
+
+.button--medium {
+  font-size: 18px;
+  padding: 14px 26px;
+}
+
+.button--small {
+  font-size: 16px;
+  padding: 12px 24px;
+}
+
+.button--xsmall {
+  font-size: 12px;
+  padding: 8px 20px;
+}
+
+.button--inactive {
+  color: #8c8c8c;
+  background-color: #eeeeee;
+}

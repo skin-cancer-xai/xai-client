@@ -1,0 +1,31 @@
+body {
+  padding: 0;
+  margin: 0 auto;
+}
+
+div {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-color: #2b3467;
+  --secondary-color: #eb455f;
+  --sub-color: #bad7e9;
+  --element-color1: #fcffe7;
+  --element-color2: #000000e6;
+  --element-color3: #000000a9;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
