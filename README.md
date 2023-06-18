@@ -14,14 +14,17 @@
    - skin cancer diagnosis
      > The project provides Skin cancer diagnosis with ResNet model  and reason for model results with Grad CAM.
 
-      ![image](https://github.com/skin-cancer-xai/xai-client/assets/72721839/e6d8d26d-9e5e-42de-9545-a1669369bd59)
+     ![image](https://github.com/skin-cancer-xai/xai-client/assets/72721839/2cd7a4ed-1ec5-4d0a-ad36-559d85665916)
 
-      ![image](https://github.com/skin-cancer-xai/xai-client/assets/72721839/e5febd79-9d8e-415b-a9dc-b6ef57387833)
+
+     ![image](https://github.com/skin-cancer-xai/xai-client/assets/72721839/8449802c-65fe-43a9-a97d-74f7c75f2107)
+
 
 
    - Submit Feedback to developer
 
-     ![image](https://github.com/skin-cancer-xai/xai-client/assets/72721839/d22ebb81-d77e-49c4-b774-91579c691a0f)
+     ![image](https://github.com/skin-cancer-xai/xai-client/assets/72721839/f6878111-495f-4737-8b94-ab4990ad10f5)
+
      
 
    
@@ -29,12 +32,14 @@
 **2. developer page**
    - Diagnosis result list
      
-     ![image](https://github.com/skin-cancer-xai/xai-client/assets/72721839/c905d9d3-415a-4e80-b812-46c4ad7dc455)
+     ![image](https://github.com/skin-cancer-xai/xai-client/assets/72721839/feccd522-4423-4a75-91ca-0b280b9bc579)
+
 
    - Check diagnostic results and feedback
      > The project provides feedback to developers to improve model performance, visualization methods, and user experience.
 
-     ![image](https://github.com/skin-cancer-xai/xai-client/assets/72721839/d773007c-69e8-4861-a31d-5795efad0ea5)
+     ![image](https://github.com/skin-cancer-xai/xai-client/assets/72721839/720f04e4-4ffb-4d06-a993-ee905c08a702)
+
 
 
 ## Start
